@@ -1,0 +1,3 @@
+interface Desenho {
+    String desenhar();
+}
